@@ -6,3 +6,4 @@ __pycache__
 staticfiles
 .ipynb_checkpoints/
 /day4/dataset/ml-100k/
+/day6/dataset/ab_data.csv
